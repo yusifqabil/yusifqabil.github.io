@@ -1,0 +1,20 @@
+body 
+{
+    background-color: #E2DBBE;
+    border-width: 2px;
+
+}
+h1,h2,h3,ul,li
+{
+    font-family:"Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+;
+    color: #000103; word-spacing: 0.5px; letter-spacing: 1px;
+}
+ul 
+{
+    /* text-indent: 1%; */
+}
+h2
+{
+    text-indent: 1%;
+}
